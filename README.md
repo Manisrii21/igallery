@@ -147,7 +147,8 @@ def gallery_view(request):
     return render(request, 'gallery/gallery.html', {'images': images})
 ```
 ## OUTPUT:
-![Uploading Screenshot 2024-11-07 114356.png…]()
+![Screenshot 2024-11-07 114356](https://github.com/user-attachments/assets/55e04dd3-19d2-4d68-89a4-6cb5dce2fa6c)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
